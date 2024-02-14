@@ -15,6 +15,7 @@
 | [Obsidian Vim IM Select Plugin](https://github.com/ALONELUR/vim-im-select-obsidian) | This plugin is used to automatically switch the current input method of the system when vim key binding is used in Obsidian, to prevent non-English input method from causing key binding failure in vim normal mode. | [Alonelur](https://github.com/ALONELUR) |
 | [Word Splitting for Simplified Chinese in Edit Mode and Vim Mode](https://github.com/aidenlx/cm-chs-patch) | A patch for Obsidian's built-in CodeMirror Editor to support Simplified Chinese word splitting in Edit Mode and Vim Mode | [aidenlx](https://github.com/aidenlx) |
 | [Obsidian Vim Reading View Navigation](https://github.com/kometenstaub/obsidian-vim-reading-view-navigation) | This plugin allows to scroll with `hjkl` in the Reading View. | [kometenstaub](https://github.com/kometenstaub) |
+| [Obsidian Plugin: Jump to link](https://github.com/mrjackphil/obsidian-jump-to-link) | Quickly navigate between links, or jump to any word on the page using hotkeys. | [mrjackphil](https://github.com/mrjackphil) |
 | [Obsidian Vim Yank Highlighter](https://github.com/kometenstaub/obsidian-vim-yank-highlight) | This plugin highlight the yank line in the Editing View | [kometenstaub](https://github.com/kometenstaub) |
 | [Obsidian VimEx](https://github.com/jiyee/obsidian-vimex) | This plugin enhance the experience of Vim Mode in Obsidian | [jiyee](https://github.com/jiyee) |
 
